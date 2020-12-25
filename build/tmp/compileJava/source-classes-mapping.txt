@@ -1,4 +1,0 @@
-Main.java
- Main
-Game_Info.java
- Game_Info
